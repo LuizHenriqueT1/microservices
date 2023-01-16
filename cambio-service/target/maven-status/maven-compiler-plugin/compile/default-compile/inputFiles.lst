@@ -1,0 +1,5 @@
+/home/rick/Projetos Spring/microservices/cambio-service/src/main/java/br/com/erudio/controller/CambioController.java
+/home/rick/Projetos Spring/microservices/cambio-service/src/main/java/br/com/erudio/repository/CambioRepository.java
+/home/rick/Projetos Spring/microservices/cambio-service/src/main/java/br/com/erudio/model/Cambio.java
+/home/rick/Projetos Spring/microservices/cambio-service/src/main/java/br/com/erudio/configuration/OpenApiConfiguration.java
+/home/rick/Projetos Spring/microservices/cambio-service/src/main/java/br/com/erudio/CambioServiceApplication.java
